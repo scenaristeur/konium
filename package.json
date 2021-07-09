@@ -1,0 +1,17 @@
+{
+  "name": "konium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.2",
+    "mochawesome": "^6.2.2",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  }
+}
